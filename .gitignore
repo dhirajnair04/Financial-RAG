@@ -1,0 +1,22 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+RAG_venv/
+.venv/
+
+# Environment variables
+.env
+
+# IDE settings
+.vscode/
+
+# Model files
+models/
+
+app.py
+hugggingface_api.txt
+financial_data_index/
+financial_qa_dataset.jsonl
+🧾 FinBot.docx
